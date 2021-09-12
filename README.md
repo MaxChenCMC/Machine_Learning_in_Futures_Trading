@@ -19,8 +19,10 @@ sklearn, requests, BeautifulSoup, pandas, numpy, Randomforest, graphviz,
 <hr>
 
 目錄:
+> 取得資料→前處理→轉換→分析→解釋→論述
+
 # 資料檢視
-asdfsadf
+類別字串類需One-Hot Encoding處理(純數值不需處理畢竟決策樹只二分)
 
 # 特徵質與標籤
 asdfasdf
