@@ -27,6 +27,7 @@ sklearn, requests, BeautifulSoup, pandas, numpy, Randomforest, graphviz, seaborn
 目錄:
 > 取得資料→前處理→轉換→分析→解釋→論述<br>
 > Selection => Preprocessing => Transformation => Knowledge Discovery in Database(Data Mining) => Interpretation Evaluation
+> Predicting future movement with a randomforest model
 
 # 預處理、特徵轉換、資料分佈
 類別字串類需One-Hot Encoding處理(純數值不需處理畢竟決策樹只二分)
