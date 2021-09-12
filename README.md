@@ -7,20 +7,20 @@
 
 資料蒐集、特徵工程、因子顯著性排序，交易策略回測、模型評估
 
-回測時間範圍：2019-01-01 ~ 2021-09-10
+回測時間範圍：2019-01-02 ~ 2021-09-10
 
 ![](get_data_from.jpg)
 ##### 資料來源：[臺灣證券交易所](https://www.twse.com.tw/zh/page/trading/fund/BFI82U.html)／[臺灣期貨交易所](https://www.taifex.com.tw/cht/3/futContractsDate)
 
-name|counts
+name | Dtype
 ---|---
-Samples total|566
-Dimensionality|11+
-Features|Int
-Target|Boolean,0,1
+Samples total | 655
+Dimensionality | 11
+Features | 6, int
+Target | Boolean
 
 # Tools
-sklearn, requests, BeautifulSoup, pandas, numpy, Randomforest, graphviz,
+sklearn, requests, BeautifulSoup, pandas, numpy, Randomforest, graphviz, seaborn
 
 <hr>
 
