@@ -19,7 +19,8 @@ sklearn, requests, BeautifulSoup, pandas, numpy, Randomforest, graphviz,
 <hr>
 
 目錄:
-> 取得資料→前處理→轉換→分析→解釋→論述
+> 取得資料→前處理→轉換→分析→解釋→論述<br>
+> Selection => Preprocessing => Transformation => Knowledge Discovery in Database(Data Mining) => Interpretation Evaluation
 
 # 資料檢視
 類別字串類需One-Hot Encoding處理(純數值不需處理畢竟決策樹只二分)
