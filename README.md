@@ -27,11 +27,12 @@ Target | Boolean
 sklearn, requests, BeautifulSoup, pandas, numpy, Randomforest, graphviz, seaborn
 
 <hr>
+<hr>
 
 # Data preparation and Pre-processing
 Initial examination of the data showed a total 11 features which numerical features only(no categorical). Before building any machine learning model, it is very crucial for the data to be cleaned in an appropriate format.
 
-# 共線(multi-collinearity)性診斷，資料分佈，特徵轉換
+# 共線(multi-collinearity)性診斷，資料分佈，特徵轉換(be transformed to binary)
 類別字串類需One-Hot Encoding處理(純數值不需處理畢竟決策樹只二分)
 
 # Knowledge Discovery in Database(Data Mining)
